@@ -7,7 +7,7 @@
 ### Description:
 A recreated version of the famous Chrome T-Rex in Python for reinforcement learning.
 
-This repository was changed to allow the game be controlled by other programs, like [Chrome_T-Rex_Rush_IA](https://github.com/MaxwellFB/Chrome_T-Rex_Rush_IA).
+This repository was changed to allow the game be controlled by other programs, like [Chrome_T_Rex_Rush_IA](https://github.com/MaxwellFB/Chrome_T_Rex_Rush_IA).
 
 ### Technology:
 Built using pygame library
